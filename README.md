@@ -1,16 +1,24 @@
-### Hi there 👋
+### Who Am I
 
-<!--
-**xilou31/xilou31** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hello 👋👋👋, here's xilou31, an student of CS in South China Agricultural University.
 
-Here are some ideas to get you started:
+I am willing to develop some tools making my life easier. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I would like to be a developer of backend or OS.
+
+And recently, I've been very interested in open source software.
+
+If you have some interesting ideas about open source, please feel free to contact me.
+
+### About Me 💡
+
+- 🛠️ Java | Go | Python
+- 🖥️ Mac | Netty | RocketMQ | Docker | MySQL | Redis
+- 🎲 Chess | Badminton | Jogging
+- 🎮 League of Legends
+
+### Find Me 📫
+
++ Email: xilou31@gmail.com
++ wechat: xilou31
++ Github: Right Here😊
