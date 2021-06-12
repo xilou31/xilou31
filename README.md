@@ -1,10 +1,10 @@
-### Who Am I
+### Who Am I 👨🏻‍💻
 
-Hello 👋👋👋, here's xilou31, an student of CS in South China Agricultural University.
+Hello, here's xilou31, an student of CS in South China Agricultural University.
 
 I am willing to develop some tools making my life easier. 
 
-I would like to be a developer of backend or OS.
+I would like to be a developer of backend.
 
 And recently, I've been very interested in open source software.
 
@@ -12,13 +12,13 @@ If you have some interesting ideas about open source, please feel free to contac
 
 ### About Me 💡
 
-- 🛠️ Java | Go | Python
-- 🖥️ Mac | Netty | RocketMQ | Docker | MySQL | Redis
-- 🎲 Chess | Badminton | Jogging
-- 🎮 League of Legends
+- 🛠️  Java  | Go | Python
+- 🖥️  Mac   | Netty | RocketMQ | Docker | MySQL | Redis
+- 🎲  Chess | Badminton | Jogging
+- 🎮  League of Legends
 
-### Find Me 📫
+### How To Contact Me 📫
 
-+ Email: xilou31@gmail.com
-+ wechat: xilou31
-+ Github: Right Here😊
++ Email:   xilou31@gmail.com
++ Wechat:  xilou31
++ Github:  Right Here😊
