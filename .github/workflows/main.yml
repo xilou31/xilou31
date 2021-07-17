@@ -32,4 +32,4 @@ jobs:
           script: |
             cd /root/mysite/
             npm install express --no-save
-            node image.js
+            node image.js &
