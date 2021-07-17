@@ -10,7 +10,7 @@ jobs:
     runs-on: ubuntu-latest # 使用ubuntu系统镜像运行自动化脚本
 
     steps: # 自动化步骤
-      - uses: actions/checkout@main # 第一步，下载代码仓库
+      - uses: actions/checkout@v2 # 第一步，下载代码仓库
 
       - name: Deploy to Server # 第二步，rsync推文件
         uses: AEnterprise/rsync-deploy@v1.0 # 使用别人包装好的步骤镜像
