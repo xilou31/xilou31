@@ -10,7 +10,7 @@ jobs:
     runs-on: ubuntu-latest # 使用ubuntu系统镜像运行自动化脚本
 
     steps: # 自动化步骤
-      - uses: actions/checkout@v2 # 第一步，下载代码仓库
+      - uses: actions/checkout@main # 第一步，下载代码仓库
 
       - name: Deploy to Server # 第二步，rsync推文件
         uses: AEnterprise/rsync-deploy@v1.0 # 使用别人包装好的步骤镜像
@@ -23,7 +23,7 @@ jobs:
           USERNAME: ${{ secrets.SSH_USERNAME }} # 引用配置，服务器登录名
           SERVER_DESTINATION: /home/fming/mysite/ # 部署到目标文件夹
       - name: Restart server # 第三步，重启服务
-        uses: appleboy/ssh-action@master
+        uses: appleboy/ssh-action@main
         with:
           host: ${{ secrets.SSH_HOST }} # 下面三个配置与上一步类似
           username: ${{ secrets.SSH_USERNAME }}
