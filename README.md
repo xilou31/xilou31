@@ -2,7 +2,7 @@
 
 <p align="center"> 
   Visitor count<br>
-  <img src="https://profile-counter.glitch.me/xilou31/count.svg" />
+  <img src="http://47.112.171.94:4300/count.svg" />
 </p>
 
 ### Who Am I 👨🏻‍💻
