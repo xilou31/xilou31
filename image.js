@@ -15,7 +15,7 @@ function getCountImage(count) {
   const parts = countArray.reduce((acc, next, index) => `
         ${acc}
         <rect id="Rectangle" fill="#000000" x="${index * 32}" y="0.5" width="29" height="29"></rect>
-        <text id="0" font-family="Courier" font-size="24" font-weight="normal" fill="#588AD5">
+        <text id="0" font-family="Courier" font-size="24" font-weight="normal" fill="#5787D1">
             <tspan x="${index * 32 + 7}" y="22">${next}</tspan>
         </text>
 `, '');
