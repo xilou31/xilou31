@@ -1,4 +1,9 @@
-<img align="right" height="137px" src="https://github-readme-stats.vercel.app/api?username=xilou31&hide_title=true&hide_border=true&count_privare=true&show_icons=true&include_all_commits=true&line_height=21&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite&locale=cn" />
+<img src="https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png" alt="Live fast. Die young. Be wild. Have fun.">
+
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/xilou31/count.svg" />
+</p>
 
 ### Who Am I 👨🏻‍💻
 
