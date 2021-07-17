@@ -45,6 +45,6 @@ app.get('/count.svg', (req, res) => {
   res.send(getCountImage(counter));
 })
 
-const listener = app.listen(process.env.PORT, () => {
+const listener = app.listen(4300, () => {
   console.log('Your app is listening on port ' + listener.address().port)
 })
