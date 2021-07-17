@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png" alt="Live fast. Die young. Be wild. Have fun.">
+<img src="https://raw.githubusercontent.com/xilou31/xilou31/main/image/banner.png" alt="Live fast. Die young. Be wild. Have fun.">
 
 <p align="center"> 
   Visitor count<br>
