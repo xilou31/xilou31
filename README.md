@@ -1,4 +1,4 @@
-![banner.png](image/banner.png)
+![banner.png](images/banner.png)
 ### Who Am I 👨🏻‍💻
 
 Hello, here's xilou31, an student of CS in South China Agricultural University.
