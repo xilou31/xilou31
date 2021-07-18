@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/xilou31/xilou31/main/image/banner.png" alt="Live fast. Die young. Be wild. Have fun.">
+![banner.png](image/banner.png)
 
 <p align="center"> 
   Visitor count<br>
