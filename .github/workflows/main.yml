@@ -23,7 +23,7 @@ jobs:
           USERNAME: ${{ secrets.SSH_USERNAME }} # 引用配置，服务器登录名
           SERVER_DESTINATION: /root/mysite/ # 部署到目标文件夹
       - name: cd mysite
-        run: cd /root/mysite/
+        run: cd mysite/
       - name: shutdown the port
         run: xl_close_port -p 4300
       - name: run the server
