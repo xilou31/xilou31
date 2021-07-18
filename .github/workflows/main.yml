@@ -31,7 +31,5 @@ jobs:
           # 重启的脚本，根据自身情况做相应改动，一般要做的是migrate数据库以及重启服务器
           script: |
             cd /root/mysite/
-            npm install -g xl_close_port
-            npm install express --no-save
             xl_close_port -p 4300
             node image.js &
