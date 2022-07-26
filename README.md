@@ -1,7 +1,7 @@
 ![banner.png](images/banner.png)
 ### Who Am I 👨🏻‍💻
 
-Hello, here's xilou31, an student of CS in South China Agricultural University.
+Hello, here's xilou31.
 
 I am willing to develop some tools making my life easier. 
 
@@ -21,5 +21,4 @@ If you have some interesting ideas about open source, please feel free to contac
 ### How To Contact Me 📫
 
 + Email:   xilou31@gmail.com
-+ Wechat:  xilou31
 + Github:  Right Here😊
